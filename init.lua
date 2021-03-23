@@ -3,7 +3,7 @@ require('plugins')
 require('nv-utils')
 require('settings')
 require('keymappings')
-require('colorscheme')
+-- require('colorscheme')
 require('nv-galaxyline')
 
 -- Plugins
